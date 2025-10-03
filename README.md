@@ -96,7 +96,7 @@ Team project — 4 members. My contributions included:
 - Built backend APIs with Express.js  
 - Integrated NeonDB via Prisma  
 - Implemented **Stripe Payment Gateway**  
-- Designed data models and flow diagrams  
+- Co-prepared data models and flow diagrams  
 - Co-prepared documentation and presentation  
 
 ---
