@@ -91,13 +91,12 @@ They showcase:
 ---
 
 ## Contributions & My Role
-Team project — 4 members. My contributions included:  
-- Developed frontend modules (Next.js & React.js)  
-- Built backend APIs with Express.js  
-- Integrated NeonDB via Prisma  
-- Implemented **Stripe Payment Gateway**  
-- Co-prepared data models and flow diagrams  
-- Co-prepared documentation and presentation  
+This was a 4-member team project. My key contributions included:
+
+- **Backend Development**: Implemented core REST APIs in Express.js, integrated NeonDB via Prisma ORM, and set up authentication & authorization.  
+- **Payment Integration**: Successfully integrated **Stripe Payment Gateway** for credit/payment flow.  
+- **Frontend Work**: Built and styled resume builder and insights dashboard using React.js + Tailwind CSS.  
+- **Documentation & Presentation**: Co-prepared system diagrams, data models, and final project presentation. 
 
 ---
 
